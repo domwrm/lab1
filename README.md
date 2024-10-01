@@ -1,3 +1,2 @@
 # lab1
-
-ryan stinks :(
+# editt
